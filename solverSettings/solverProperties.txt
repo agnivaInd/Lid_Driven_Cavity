@@ -1,0 +1,16 @@
+// Solver settings viz Schemes for Poisson Equation and Vorticity Equation
+
+Poisson
+{
+	Scheme = "GS_with_SOR";
+}
+
+Vorticity
+{
+	Scheme = "FTCS";
+} 
+
+Timestep
+{
+	delta_t = 0.00125;
+}
