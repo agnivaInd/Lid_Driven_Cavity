@@ -1,0 +1,11 @@
+// Boundary Conditions for the domain
+
+U_velocity
+{
+	top = 1;
+}
+
+Reynolds_Number
+{
+	Re = 1000;
+}
