@@ -581,6 +581,6 @@ int main()
     }
     else
     {
-        cout << "MATLAB script executed successfull\n";
+        cout << "MATLAB script executed successfully\n";
     }
 }
