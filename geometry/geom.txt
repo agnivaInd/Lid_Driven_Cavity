@@ -1,0 +1,13 @@
+// Domain Length and Number of grid points
+
+Domain_info
+{
+	X_end = 1;
+	Y_end = 1;
+}
+
+Grid_points
+{
+	X_direction = 128;
+	Y_direction = 128;
+}
