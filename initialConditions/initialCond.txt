@@ -1,0 +1,6 @@
+// Initial velocity for the domain
+
+U_velocity
+{
+	top = 0;		
+}
